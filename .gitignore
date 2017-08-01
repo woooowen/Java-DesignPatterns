@@ -31,8 +31,8 @@ Contact GitHub API Training Shop Blog About
 
 .idea/workspace.xml
 
+.idea/misc.xml
+
 Java DesignPatterns.iml
 
 *.class
-
-target/classes/singleton/Singleton.class
