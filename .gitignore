@@ -24,15 +24,4 @@ target/*
 hs_err_pid*
 Contact GitHub API Training Shop Blog About
 
-
-.idea/compiler.xml
-
-.idea/modules.xml
-
-.idea/workspace.xml
-
-.idea/misc.xml
-
 Java DesignPatterns.iml
-
-*.class
