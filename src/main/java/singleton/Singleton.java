@@ -15,6 +15,11 @@ import java.util.concurrent.Executors;
 // 枚举,类加载时就初始化,无法懒汉,Java规范保证线程安全,反序列安全,反射安全
 enum SingletonEnum {
     INSTANCE;
+
+    public void a(){
+        System.out.println("");
+    }
+
 }
 
 // 内部静态类
