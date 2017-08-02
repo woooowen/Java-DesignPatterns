@@ -10,6 +10,8 @@ import java.util.concurrent.Executors;
 
 /***
  *  单例模式
+ *  JDK实现 java.lang.Runtime getRuntime()
+ *
  */
 
 // 枚举,类加载时就初始化,无法懒汉,Java规范保证线程安全,反序列安全,反射安全

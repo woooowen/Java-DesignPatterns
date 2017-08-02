@@ -3,6 +3,11 @@ package proxy.dynamicproxy;
 /**
  * Created by woooowen on 2017/8/2.
  */
+
+/**
+ *  代理模式
+ *  JDK实现 java.lang.reflec Proxy
+ */
 public class Test {
 
     // 动态代理

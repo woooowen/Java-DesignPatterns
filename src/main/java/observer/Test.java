@@ -3,6 +3,11 @@ package observer;
 /**
  * Created by woooowen on 2017/8/3.
  */
+
+/**
+ * 观察者模式
+ * JDK java.util.EventListener
+ */
 public class Test {
 
     public static void main(String[] args) {

@@ -3,6 +3,11 @@ package decorator;
 /**
  * Created by woooowen on 2017/8/2.
  */
+
+/**
+ * 装饰器模式
+ * JDK java.io.BufferedInputStream(InputStream) java.io.DataInputStream(InputStream)
+ */
 public class Test {
     public static void main(String[] args) {
 
